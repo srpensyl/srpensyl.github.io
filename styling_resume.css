@@ -1,5 +1,7 @@
 body {
   background-color: #E5F0E9;
+  font-color: #1a1d1a;
+  font-family: "garamond", serif;
 }
 ul.nav {	list-style-type: none;
   background-color: #a190b6;
@@ -24,20 +26,22 @@ li.nav a {
   li.nav a:hover {
     background-color: #49416D;
   }
-div {
-  text-align: center;
-  padding-top: 100px;
-  font-family: "Garamond", serif;
-  font-size: 2em;
-    color: #1a1d1a;
-}
-img {
-  border:5px solid #1a1d1a;
-  padding: 2px;
-}
-hr {
-  border: none;
-  color: #a190b6;
-  background-color: #a190b6;
-  height: 10px;
-}
+  div {
+    text-align: center;
+    padding-top: 100px;
+    font-family: "Garamond", serif;
+    font-size: 2em;
+      color: #1a1d1a;
+  }
+  hr {
+    border: none;
+    color: #a190b6;
+    background-color: #a190b6;
+    height: 10px;
+  }
+  section {
+    padding-bottom: 10px;
+  }
+  br {
+    line-height: 10px;
+  }
