@@ -49,3 +49,10 @@ li.nav a {
   br {
     line-height: 10px;
   }
+  h1 {
+    text-align: center;
+    padding-top: 150px;
+    font-family: "Garamond", serif;
+    font-size: 4em;
+      color: #1a1d1a;
+  }
