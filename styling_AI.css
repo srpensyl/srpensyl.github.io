@@ -1,0 +1,41 @@
+body {
+  background-color: #E5F0E9;
+  font-color: #1a1d1a;
+  font-family: "garamond", serif;
+}
+ul.nav {	list-style-type: none;
+  background-color: #a190b6;
+  position: relative; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  padding-left: 0;
+  padding-right: 0;
+  left: 3px;
+  width: 100%;
+}
+li.nav a {
+  float: left;
+  background-color: #a190b6;
+  display: block;
+	font-family: "Garamond", serif;
+  font-size: 1.5em;
+    color: #2e3532;
+    text-align: center;
+    padding: 39px; /* add spacing between items */
+    text-decoration: none;
+  }
+  li.nav a:hover {
+    background-color: #49416D;
+  }
+  div {
+    text-align: center;
+    padding-top: 100px;
+    font-family: "Garamond", serif;
+    font-size: 2em;
+      color: #1a1d1a;
+  }
+  hr {
+    border: none;
+    color: #a190b6;
+    background-color: #a190b6;
+    height: 10px;
+  }
