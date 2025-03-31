@@ -34,7 +34,7 @@ worse than she supposed.</p>
 
 <p><dilaogue>“I’ve not got the baby, <person name="Harriet_Herriton">Harriet</person>, but at the same time I haven’t
 exactly failed. I and <person name="Gino_Carella">Signor Carella</person> are to have another interview
-this afternoon, at the Caffe Garibaldi. He is perfectly reasonable and
+this afternoon, at the <place type="fictional cafe" name="Caffe Garibaldi">Caffe Garibaldi</place>. He is perfectly reasonable and
 pleasant. Should you be disposed to come with me, you would find him
 quite willing to discuss things. He is desperately in want of money, and
 has no prospect of getting any. I discovered that. At the same time, he
@@ -154,7 +154,7 @@ he was still a little jaunty, and too apt to stake out beforehand the
 course that will be pursued by the wounded soul. It did not surprise
 him, however, that she should greet him naturally, with none of the sour
 self-consciousness of a person who had just risen from her knees. This
-was indeed the spirit of <place type="church" name="Santa_Deodata">Santa Deodata</place>’s, where a prayer to God is
+was indeed the spirit of <person name="Santa_Deodata">Santa Deodata</person>’s, where a prayer to God is
 thought none the worse of because it comes next to a pleasant word to
 a neighbour. “I am sure that I need it,” said she; and he, who had
 expected her to be ashamed, became confused, and knew not what to reply.</theme></p>
@@ -219,7 +219,7 @@ even my mother.”</p></dialogue>
 general view of the muddle.”</p></dialogue>
 
 <p><theme type="religious">He smiled with pleasure. It was the first time she had ever praised
-him. His eyes rested agreeably on <place type="church" name="Santa_Deodata"Santa Deodata</place>, who was dying in full
+him. His eyes rested agreeably on <person name="Santa_Deodata">Santa Deodata</person>, who was dying in full
 sanctity, upon her back. There was a window open behind her, revealing
 just such a view as he had seen that morning, and on her widowed
 mother’s dresser there stood just such another copper pot. The saint
@@ -227,7 +227,7 @@ looked neither at the view nor at the pot, and at her widowed mother
 still less. For lo! she had a vision: the head and shoulders of St.
 Augustine were sliding like some miraculous enamel along the rough-cast
 wall. It is a gentle saint who is content with half another saint to see
-her die. <theme type="failure">In her death, as in her life, <place type="church" name="Santa_Deodata"Santa Deodata</place> did not accomplish
+her die. <theme type="failure">In her death, as in her life, <person name="Santa_Deodata">Santa Deodata</person> did not accomplish
 much.</theme></theme></p>
 
 <p><dialogue>“So what are you going to do?”</dialogue> said <person name="Caroline_Abbott">Miss Abbott</person>.</p>
@@ -450,306 +450,306 @@ much, but the night was extraordinarily dark, and one of the drivers
 wanted to go slowly to the station. <person name="Caroline_Abbott">Miss Abbott</person> came down and said that
 she was ready, and would start at once.</p>
 
-“Yes, do,” said <person name="Philip_Herriton">Philip</person>, who was standing in the hall. “Now that we have
+<p><dialogue>“Yes, do,” said <person name="Philip_Herriton">Philip</person>, who was standing in the hall. “Now that we have
 quarrelled we scarcely want to travel in procession all the way down the
 hill. Well, good-bye; it’s all over at last; another scene in my pageant
-has shifted.”
+has shifted.”</p></dialogue>
 
-“Good-bye; it’s been a great pleasure to see you. I hope that won’t
-shift, at all events.” She gripped his hand.
+<p><dialogue>“Good-bye; it’s been a great pleasure to see you. I hope that won’t
+shift, at all events.”</dialogue> She gripped his hand.</p>
 
-“You sound despondent,” he said, laughing. “Don’t forget that you return
-victorious.”
+<p><dialogue>“You sound despondent,” he said, laughing. “Don’t forget that you return
+victorious.”</p></dialogue>
 
-“I suppose I do,” she replied, more despondently than ever, and got into
+<p><dialogue>“I suppose I do,”</dialogue> she replied, more despondently than ever, and got into
 the carriage. He concluded that she was thinking of her reception at
-Sawston, whither her fame would doubtless precede her. Whatever would
-Mrs. Herriton do? She could make things quite unpleasant when she
+<place type="village" name="Sawston">Sawston</place>, whither her fame would doubtless precede her. Whatever would
+<person name="Mrs. Herriton">Mrs. Herriton</person> do? She could make things quite unpleasant when she
 thought it right. She might think it right to be silent, but then there
 was <person name="Harriet_Herriton">Harriet</person>. Who would bridle <person name="Harriet_Herriton">Harriet</person>’s tongue? Between the two of
 them <person name="Caroline_Abbott">Miss Abbott</person> was bound to have a bad time. Her reputation, both for
-consistency and for moral enthusiasm, would be lost for ever.
+consistency and for moral enthusiasm, would be lost for ever.</p>
 
-“It’s hard luck on her,” he thought. “She is a good person. I must do
-for her anything I can.” Their intimacy had been very rapid, but he too
+<p><dialogue>“It’s hard luck on her,” he thought. “She is a good person. I must do
+for her anything I can.”</dialogue> Their intimacy had been very rapid, but he too
 hoped that it would not shift. He believed that he understood her,
 and that she, by now, had seen the worst of him. What if after a
 long time--if after all--he flushed like a boy as he looked after her
-carriage.
+carriage.</p>
 
-He went into the dining-room to look for <person name="Harriet_Herriton">Harriet</person>. <person name="Harriet_Herriton">Harriet</person> was not to
-be found. Her bedroom, too, was empty. All that was left of her was
+<p>He went into the dining-room to look for <person name="Harriet_Herriton">Harriet</person>. <person name="Harriet_Herriton">Harriet</person> was not to
+be found. Her bedroom, too, was empty. <theme type="religious">All that was left of her was
 the purple prayer-book which lay open on the bed. <person name="Philip_Herriton">Philip</person> took it up
 aimlessly, and saw--“Blessed be the Lord my God who teacheth my hands to
 war and my fingers to fight.” He put the book in his pocket, and began
-to brood over more profitable themes.
+to brood over more profitable themes.</theme></p>
 
-<place type="church" name="Santa_Deodata"Santa Deodata</place> gave out half past eight. All the luggage was on, and
-still <person name="Harriet_Herriton">Harriet</person> had not appeared. “Depend upon it,” said the landlady,
-“she has gone to <person name="Gino_Carella">Signor Carella</person>’s to say good-bye to her little nephew.”
+<p><place type="church" name="Santa_Deodata"Santa Deodata</place> gave out half past eight. All the luggage was on, and
+still <person name="Harriet_Herriton">Harriet</person> had not appeared. <dialogue>“Depend upon it,” said the landlady,
+“she has gone to <person name="Gino_Carella">Signor Carella</person>’s to say good-bye to her little nephew.”</dialogue>
  <person name="Philip_Herriton">Philip</person> did not think it likely. They shouted all over the house and
 still there was no <person name="Harriet_Herriton">Harriet</person>. He began to be uneasy. He was helpless
 without <person name="Caroline_Abbott">Miss Abbott</person>; her grave, kind face had cheered him wonderfully,
 even when it looked displeased. <place type="fictional town" name="Monteriano">Monteriano</place> was sad without her; the rain
-was thickening; the scraps of Donizetti floated tunelessly out of the
+was thickening; the scraps of <define>Donizetti</define> floated tunelessly out of the
 wineshops, and of the great tower opposite he could only see the base,
-fresh papered with the advertisements of quacks.
+fresh papered with the advertisements of quacks.</p>
 
-A man came up the street with a note. <person name="Philip_Herriton">Philip</person> read, “Start at once. Pick
-me up outside the gate. Pay the bearer. H. H.”
+<p>A man came up the street with a note. <person name="Philip_Herriton">Philip</person> read, “Start at once. Pick
+me up outside the gate. Pay the bearer. <person name="Harriet_Harriton">H. H.”</person></p>
 
-“Did the lady give you this note?” he cried.
+<p><dialogue>>“Did the lady give you this note?”</dialogue> he cried.</p>
 
-The man was unintelligible.
+<p>The man was unintelligible.</p>
 
-“Speak up!” exclaimed <person name="Philip_Herriton">Philip</person>. “Who gave it you--and where?”
+<p><dialogue>“Speak up!” exclaimed <person name="Philip_Herriton">Philip</person>. “Who gave it you--and where?”</dialogue></p>
 
-Nothing but horrible sighings and bubblings came out of the man.
+<p>Nothing but horrible sighings and bubblings came out of the man.</p>
 
-“Be patient with him,” said the driver, turning round on the box. “It is
-the poor idiot.” And the landlady came out of the hotel and echoed “The
-poor idiot. He cannot speak. He takes messages for us all.”
+<p><dialogue>“Be patient with him,”</dialogue> said the driver, turning round on the box. <dialogue>“It is
+the poor idiot.”</dialogue> And the landlady came out of the hotel and echoed <dialogue>“The
+poor idiot. He cannot speak. He takes messages for us all.”</dialogue></p>
 
-<person name="Philip_Herriton">Philip</person> then saw that the messenger was a ghastly creature, quite bald,
+<p><person name="Philip_Herriton">Philip</person> then saw that the messenger was a ghastly creature, quite bald,
 with trickling eyes and grey twitching nose. In another country he would
 have been shut up; here he was accepted as a public institution, and
-part of Nature’s scheme.
+part of Nature’s scheme.</p>
 
-“Ugh!” shuddered the Englishman. “Signora padrona, find out from him;
-this note is from my sister. What does it mean? Where did he see her?”
+<p><dialogue>“Ugh!” shuddered the Englishman. “Signora padrona, find out from him;
+this note is from my sister. What does it mean? Where did he see her?”</dialogue></p>
 
-“It is no good,” said the landlady. “He understands everything but he
-can explain nothing.”
+<p><dialogue>“It is no good,” said the landlady. “He understands everything but he
+can explain nothing.”</dialogue></p>
 
-“He has visions of the saints,” said the man who drove the cab.
+<p><dialogue>“<theme type="religious">He has visions of the saints,</theme>”</dialogue> said the man who drove the cab.</p>
 
-“But my sister--where has she gone? How has she met him?”
+<p><dialogue>“But my sister--where has she gone? How has she met him?”</dialogue></p>
 
-“She has gone for a walk,” asserted the landlady. It was a nasty
-evening, but she was beginning to understand the English. “She has gone
+<p><dialogue>“She has gone for a walk,”</dialogue> asserted the landlady. It was a nasty
+evening, but she was beginning to understand the English. <dialogue>“She has gone
 for a walk--perhaps to wish good-bye to her little nephew. Preferring to
 come back another way, she has sent you this note by the poor idiot and
-is waiting for you outside the Siena gate. Many of my guests do this.”
+is waiting for you outside the <place type="city" name="Sienna">Siena</place> gate. Many of my guests do this.”</dialogue></p>
 
-There was nothing to do but to obey the message. He shook hands with
+<p>There was nothing to do but to obey the message. He shook hands with
 the landlady, gave the messenger a nickel piece, and drove away. After
 a dozen yards the carriage stopped. The poor idiot was running and
-whimpering behind.
+whimpering behind.</p>
 
-“Go on,” cried <person name="Philip_Herriton">Philip</person>. “I have paid him plenty.”
+<p><dialogue>“Go on,” cried <person name="Philip_Herriton">Philip</person>. “I have paid him plenty.”</dialogue></p>
 
-A horrible hand pushed three soldi into his lap. It was part of the
+<p>A horrible hand pushed three <define>soldi</define> into his lap. It was part of the
 idiot’s malady only to receive what was just for his services. This was
-the change out of the nickel piece.
+the change out of the nickel piece.</p>
 
-“Go on!” shouted <person name="Philip_Herriton">Philip</person>, and flung the money into the road. He was
+<p><dialogue>“Go on!”</dialogue> shouted <person name="Philip_Herriton">Philip</person>, and flung the money into the road. He was
 frightened at the episode; the whole of life had become unreal. It was
-a relief to be out of the Siena gate. They drew up for a moment on the
+a relief to be out of the <place type="city" name"Sienna">Siena</place> gate. They drew up for a moment on the
 terrace. But there was no sign of <person name="Harriet_Herriton">Harriet</person>. The driver called to the
-Dogana men. But they had seen no English lady pass.
+<define>Dogana</define> men. But they had seen no English lady pass.</p>
 
-“What am I to do?” he cried; “it is not like the lady to be late. We
-shall miss the train.”
+<p><dialogue>“What am I to do?” he cried; “it is not like the lady to be late. We
+shall miss the train.”</dialogue></p>
 
-“Let us drive slowly,” said the driver, “and you shall call her by name
-as we go.”
+<p><dialogue>“Let us drive slowly,” said the driver, “and you shall call her by name
+as we go.”</p></dialogue>
 
-So they started down into the night, <person name="Philip_Herriton">Philip</person> calling “<person name="Harriet_Herriton">Harriet</person>! <person name="Harriet_Herriton">Harriet</person>!
-<person name="Harriet_Herriton">Harriet</person>!” And there she was, waiting for them in the wet, at the first
-turn of the zigzag.
+<p>So they started down into the night, <person name="Philip_Herriton">Philip</person> calling <dialogue>“<person name="Harriet_Herriton">Harriet</person>! <person name="Harriet_Herriton">Harriet</person>!
+<person name="Harriet_Herriton">Harriet</person>!”</dialogue> And there she was, waiting for them in the wet, at the first
+turn of the zigzag.</p>
 
-“<person name="Harriet_Herriton">Harriet</person>, why don’t you answer?”
+<p><dialogue>“<person name="Harriet_Herriton">Harriet</person>, why don’t you answer?”</dialogue></p>
 
-“I heard you coming,” said she, and got quickly in. Not till then did he
-see that she carried a bundle.
+<p><dialogue>“I heard you coming,”</dialogue> said she, and got quickly in. Not till then did he
+see that she carried a bundle.</p>
 
-“What’s that?”
+<p><dialogue>“What’s that?”</dialogue></p>
 
-“Hush--”
+<p><dialogue>“Hush--”</dialogue></p>
 
-“Whatever is that?”
+<p><dialogue>“Whatever is that?”</dialogue></p>
 
-“Hush--sleeping.”
+<p><dialogue>“Hush--sleeping.”</dialogue></p>
 
-<person name="Harriet_Herriton">Harriet</person> had succeeded where <person name="Caroline_Abbott">Miss Abbott</person> and <person name="Philip_Herriton">Philip</person> had failed. It was
-the baby.
+<p><person name="Harriet_Herriton">Harriet</person> had succeeded where <person name="Caroline_Abbott">Miss Abbott</person> and <person name="Philip_Herriton">Philip</person> had failed. It was
+the baby.</p>
 
-She would not let him talk. The baby, she repeated, was asleep, and she
+<p>She would not let him talk. The baby, she repeated, was asleep, and she
 put up an umbrella to shield it and her from the rain. He should
 hear all later, so he had to conjecture the course of the wonderful
 interview--an interview between the South pole and the North. It was
 quite easy to conjecture: <person name="Gino_Carella">Gino</person> crumpling up suddenly before the intense
 conviction of <person name="Harriet_Herriton">Harriet</person>; being told, perhaps, to his face that he was a
 villain; yielding his only son perhaps for money, perhaps for nothing.
-“Poor <person name="Gino_Carella">Gino</person>,” he thought. “He’s no greater than I am, after all.”
+“Poor <person name="Gino_Carella">Gino</person>,” he thought. “He’s no greater than I am, after all.”</p>
 
-Then he thought of <person name="Caroline_Abbott">Miss Abbott</person>, whose carriage must be descending the
+<p>Then he thought of <person name="Caroline_Abbott">Miss Abbott</person>, whose carriage must be descending the
 darkness some mile or two below them, and his easy self-accusation
 failed. She, too, had conviction; he had felt its force; he would feel
-it again when she knew this day’s sombre and unexpected close.
+it again when she knew this day’s sombre and unexpected close.</p>
 
-“You have been pretty secret,” he said; “you might tell me a little now.
-What do we pay for him? All we’ve got?”
+<p><dialogue>“You have been pretty secret,” he said; “you might tell me a little now.
+What do we pay for him? All we’ve got?”</dalogue></p>
 
-“Hush!” answered <person name="Harriet_Herriton">Harriet</person>, and dandled the bundle laboriously, like some
-bony prophetess--Judith, or Deborah, or Jael. He had last seen the baby
+<p><dialogue>“Hush!”</dialogue> answered <person name="Harriet_Herriton">Harriet</person>, and dandled the bundle laboriously, <theme type="religious">like some
+bony prophetess--Judith, or Deborah, or Jael</theme>. He had last seen the baby
 sprawling on the knees of <person name="Caroline_Abbott">Miss Abbott</person>, shining and naked, with twenty
 miles of view behind him, and his father kneeling by his feet. And
 that remembrance, together with <person name="Harriet_Herriton">Harriet</person>, and the darkness, and the
 poor idiot, and the silent rain, filled him with sorrow and with the
-expectation of sorrow to come.
+expectation of sorrow to come.</p>
 
-<place type="fictional town" name="Monteriano">Monteriano</place> had long disappeared, and he could see nothing but the
+<p><place type="fictional town" name="Monteriano">Monteriano</place> had long disappeared, and he could see nothing but the
 occasional wet stem of an olive, which their lamp illumined as they
 passed it. They travelled quickly, for this driver did not care how fast
 he went to the station, and would dash down each incline and scuttle
-perilously round the curves.
+perilously round the curves.</p>
 
-“Look here, <person name="Harriet_Herriton">Harriet</person>,” he said at last, “I feel bad; I want to see the
-baby.”
+<p><dialogue>“Look here, <person name="Harriet_Herriton">Harriet</person>,” he said at last, “I feel bad; I want to see the
+baby.”</p></dialogue>
 
-“Hush!”
+<p><dialogue>“Hush!”</dialogue></p>
 
-“I don’t mind if I do wake him up. I want to see him. I’ve as much right
-in him as you.”
+<p><dialogue>“I don’t mind if I do wake him up. I want to see him. I’ve as much right
+in him as you.”</dialogue></p>
 
-<person name="Harriet_Herriton">Harriet</person> gave in. But it was too dark for him to see the child’s face.
-“Wait a minute,” he whispered, and before she could stop him he had
-lit a match under the shelter of her umbrella. “But he’s awake!” he
-exclaimed. The match went out.
+<p><person name="Harriet_Herriton">Harriet</person> gave in. But it was too dark for him to see the child’s face.
+<dialogue>“Wait a minute,”</dialogue> he whispered, and before she could stop him he had
+lit a match under the shelter of her umbrella. <dailogue>“But he’s awake!”</dialogue> he
+exclaimed. The match went out.</p>
 
-“Good ickle quiet boysey, then.”
+<p><dialogue>“Good <define>ickle</define> quiet boysey, then.”</dialogue></p>
 
-<person name="Philip_Herriton">Philip</person> winced. “His face, do you know, struck me as all wrong.”
+<p><person name="Philip_Herriton">Philip</person> winced. <dialogue>“His face, do you know, struck me as all wrong.”</dialogue></p>
 
-“All wrong?”
+<p><dialogue>“All wrong?”</dialogue></p>
 
-“All puckered queerly.”
+<p><dialogue>“All puckered queerly.”</dialogue></p>
 
-“Of course--with the shadows--you couldn’t see him.”
+<p><dialogue>“Of course--with the shadows--you couldn’t see him.”</dialogue></p>
 
-“Well, hold him up again.” She did so. He lit another match. It went out
-quickly, but not before he had seen that the baby was crying.
+<p><dialogue>“Well, hold him up again.”</dialogue> She did so. He lit another match. It went out
+quickly, but not before he had seen that the baby was crying.</p>
 
-“Nonsense,” said <person name="Harriet_Herriton">Harriet</person> sharply. “We should hear him if he cried.”
+<p><dialogue>“Nonsense,” said <person name="Harriet_Herriton">Harriet</person> sharply. “We should hear him if he cried.”</dialogue></p>
 
-“No, he’s crying hard; I thought so before, and I’m certain now.”
+<p><dialogue>“No, he’s crying hard; I thought so before, and I’m certain now.”</dialogue></p>
 
-<person name="Harriet_Herriton">Harriet</person> touched the child’s face. It was bathed in tears. “Oh, the night
-air, I suppose,” she said, “or perhaps the wet of the rain.”
+<p><person name="Harriet_Herriton">Harriet</person> touched the child’s face. It was bathed in tears. <dialogue>“Oh, the night
+air, I suppose,” she said, “or perhaps the wet of the rain.”</dialogue></p>
 
-“I say, you haven’t hurt it, or held it the wrong way, or anything;
-it is too uncanny--crying and no noise. Why didn’t you get Perfetta to
+<p><dialogue>“I say, you haven’t hurt it, or held it the wrong way, or anything;
+it is too uncanny--crying and no noise. Why didn’t you get <person name="Perfetta">Perfetta</person> to
 carry it to the hotel instead of muddling with the messenger? It’s a
-marvel he understood about the note.”
+marvel he understood about the note.”</dialogue></p>
 
-“Oh, he understands.” And he could feel her shudder. “He tried to carry
-the baby--”
+<p><dialogue>“Oh, he understands.” And he could feel her shudder. “He tried to carry
+the baby--”</dialogue></p>
 
-“But why not <person name="Gino_Carella">Gino</person> or Perfetta?”
+<p><dialogue>“But why not <person name="Gino_Carella">Gino</person> or <person name="Perfetta">Perfetta</person>?”</dialogue></p>
 
-“<person name="Philip_Herriton">Philip</person>, don’t talk. Must I say it again? Don’t talk. The baby wants
-to sleep.” She crooned harshly as they descended, and now and then she
+<p><dialogue>“<person name="Philip_Herriton">Philip</person>, don’t talk. Must I say it again? Don’t talk. The baby wants
+to sleep.”</dialogue> She crooned harshly as they descended, and now and then she
 wiped up the tears which welled inexhaustibly from the little eyes.
 <person name="Philip_Herriton">Philip</person> looked away, winking at times himself. It was as if they were
 travelling with the whole world’s sorrow, as if all the mystery, all the
-persistency of woe were gathered to a single fount. The roads were
+persistency of woe were gathered to a single <define>fount</define>. The roads were
 now coated with mud, and the carriage went more quietly but not less
 swiftly, sliding by long zigzags into the night. He knew the landmarks
-pretty well: here was the crossroad to Poggibonsi; and the last view of
+pretty well: here was the crossroad to <place type="town" name="Poggibonsi">Poggibonsi</place>; and the last view of
 <place type="fictional town" name="Monteriano">Monteriano</place>, if they had light, would be from here. Soon they ought to
 come to that little wood where violets were so plentiful in spring. He
 wished the weather had not changed; it was not cold, but the air was
-extraordinarily damp. It could not be good for the child.
+extraordinarily damp. It could not be good for the child.</p>
 
-“I suppose he breathes, and all that sort of thing?” he said.
+<p><dialogue>“I suppose he breathes, and all that sort of thing?” he said.</p></dialogue>
 
-“Of course,” said <person name="Harriet_Herriton">Harriet</person>, in an angry whisper. “You’ve started him
+<p><dialogue>“Of course,” said <person name="Harriet_Herriton">Harriet</person>, in an angry whisper. “You’ve started him
 again. I’m certain he was asleep. I do wish you wouldn’t talk; it makes
-me so nervous.”
+me so nervous.”</p></dialogue>
 
-“I’m nervous too. I wish he’d scream. It’s too uncanny. Poor <person name="Gino_Carella">Gino</person>! I’m
-terribly sorry for <person name="Gino_Carella">Gino</person>.”
+<p><dialogue>“I’m nervous too. I wish he’d scream. It’s too uncanny. Poor <person name="Gino_Carella">Gino</person>! I’m
+terribly sorry for <person name="Gino_Carella">Gino</person>.”</dialogue></p>
 
-“Are you?”
+<p><dialogue>“Are you?”</dialogue></p>
 
-“Because he’s weak--like most of us. He doesn’t know what he wants. He
-doesn’t grip on to life. But I like that man, and I’m sorry for him.”
+<p><dialogue>“Because he’s weak--like most of us. He doesn’t know what he wants. He
+doesn’t grip on to life. But I like that man, and I’m sorry for him.”</dialogue></p>
 
-Naturally enough she made no answer.
+<p>Naturally enough she made no answer.</p>
 
-“You despise him, <person name="Harriet_Herriton">Harriet</person>, and you despise me. But you do us no good
+<p><dialogue>“You despise him, <person name="Harriet_Herriton">Harriet</person>, and you despise me. But you do us no good
 by it. We fools want some one to set us on our feet. Suppose a really
 decent woman had set up <person name="Gino_Carella">Gino</person>--I believe <person name="Caroline_Abbott">Caroline Abbott</person> might have done
-it--mightn’t he have been another man?”
+it--mightn’t he have been another man?”</dialogue></p>
 
-“<person name="Philip_Herriton">Philip</person>,” she interrupted, with an attempt at nonchalance, “do you
+<p><dialogue>“<person name="Philip_Herriton">Philip</person>,” she interrupted, with an attempt at nonchalance, “do you
 happen to have those matches handy? We might as well look at the baby
-again if you have.”
+again if you have.”</dialogue></p>
 
-The first match blew out immediately. So did the second. He suggested
-that they should stop the carriage and borrow the lamp from the driver.
+<p>The first match blew out immediately. So did the second. He suggested
+that they should stop the carriage and borrow the lamp from the driver.</p>
 
-“Oh, I don’t want all that bother. Try again.”
+<p><dialogue>“Oh, I don’t want all that bother. Try again.”</dialogue></p>
 
-They entered the little wood as he tried to strike the third match.
+<p>They entered the little wood as he tried to strike the third match.
 At last it caught. <person name="Harriet_Herriton">Harriet</person> poised the umbrella rightly, and for a full
 quarter minute they contemplated the face that trembled in the light of
 the trembling flame. Then there was a shout and a crash. They were lying
-in the mud in darkness. The carriage had overturned.
+in the mud in darkness. The carriage had overturned.</p>
 
-<person name="Philip_Herriton">Philip</person> was a good deal hurt. He sat up and rocked himself to and fro,
+<p><person name="Philip_Herriton">Philip</person> was a good deal hurt. He sat up and rocked himself to and fro,
 holding his arm. He could just make out the outline of the carriage
 above him, and the outlines of the carriage cushions and of their
 luggage upon the grey road. The accident had taken place in the wood,
-where it was even darker than in the open.
+where it was even darker than in the open.</p>
 
-“Are you all right?” he managed to say. <person name="Harriet_Herriton">Harriet</person> was screaming, the horse
-was kicking, the driver was cursing some other man.
+<p><dialogue>“Are you all right?”</dialogue> he managed to say. <person name="Harriet_Herriton">Harriet</person> was screaming, the horse
+was kicking, the driver was cursing some other man.</p>
 
-<person name="Harriet_Herriton">Harriet</person>’s screams became coherent. “The baby--the baby--it slipped--it’s
-gone from my arms--I stole it!”
+<p><person name="Harriet_Herriton">Harriet</person>’s screams became coherent. <dialogue>“The baby--the baby--it slipped--it’s
+gone from my arms--I stole it!”</dialogue></p>
 
-“God help me!” said <person name="Philip_Herriton">Philip</person>. A cold circle came round his mouth, and, he
-fainted.
+<p><dialogue>“<theme type="religious">God help me!</theme>” said <person name="Philip_Herriton">Philip</person>. A cold circle came round his mouth, and, he
+fainted.</p>
 
-When he recovered it was still the same confusion. The horse was
+<p>When he recovered it was still the same confusion. The horse was
 kicking, the baby had not been found, and <person name="Harriet_Herriton">Harriet</person> still screamed like a
-maniac, “I stole it! I stole it! I stole it! It slipped out of my arms!”
+maniac, <dialogue>“I stole it! I stole it! I stole it! It slipped out of my arms!”</dialogue></p>
 
-“Keep still!” he commanded the driver. “Let no one move. We may tread on
-it. Keep still.”
+<p><dialogue>“Keep still!” he commanded the driver. “Let no one move. We may tread on
+it. Keep still.”</dialogue></p>
 
-For a moment they all obeyed him. He began to crawl through the mud,
+<p>For a moment they all obeyed him. He began to crawl through the mud,
 touching first this, then that, grasping the cushions by mistake,
 listening for the faintest whisper that might guide him. He tried to
 light a match, holding the box in his teeth and striking at it with the
 uninjured hand. At last he succeeded, and the light fell upon the bundle
-which he was seeking.
+which he was seeking.</p>
 
-It had rolled off the road into the wood a little way, and had fallen
+<p>It had rolled off the road into the wood a little way, and had fallen
 across a great rut. So tiny it was that had it fallen lengthways it
-would have disappeared, and he might never have found it.
+would have disappeared, and he might never have found it.</p>
 
-“I stole it! I and the idiot--no one was there.” She burst out laughing.
+<p><dialogue>“I stole it! I and the idiot--no one was there.”</dialogue> She burst out laughing.</p>
 
-He sat down and laid it on his knee. Then he tried to cleanse the face
+<p>He sat down and laid it on his knee. Then he tried to cleanse the face
 from the mud and the rain and the tears. His arm, he supposed, was
 broken, but he could still move it a little, and for the moment he
 forgot all pain. He was listening--not for a cry, but for the tick of a
-heart or the slightest tremor of breath.
+heart or the slightest tremor of breath.</p>
 
-“Where are you?” called a voice. It was <person name="Caroline_Abbott">Miss Abbott</person>, against whose
+<p><dialogue>“Where are you?”</dialogue> called a voice. It was <person name="Caroline_Abbott">Miss Abbott</person>, against whose
 carriage they had collided. She had relit one of the lamps, and was
-picking her way towards him.
+picking her way towards him.</p>
 
-“Silence!” he called again, and again they obeyed. He shook the bundle;
+<p><dialogue>“Silence!”</dialogue> he called again, and again they obeyed. He shook the bundle;
 he breathed into it; he opened his coat and pressed it against him. Then
 he listened, and heard nothing but the rain and the panting horses, and
-<person name="Harriet_Herriton">Harriet</person>, who was somewhere chuckling to herself in the dark.
+<person name="Harriet_Herriton">Harriet</person>, who was somewhere chuckling to herself in the dark.</p>
 
-<person name="Caroline_Abbott">Miss Abbott</person> approached, and took it gently from him. The face was
+<p><person name="Caroline_Abbott">Miss Abbott</person> approached, and took it gently from him. <theme type"failure">The face was
 already chilly, but thanks to <person name="Philip_Herriton">Philip</person> it was no longer wet. Nor would it
-again be wetted by any tear.
+again be wetted by any tear.</theme></p>
 </text>
 </xml>
