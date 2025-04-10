@@ -2,13 +2,15 @@ body {
   background-color: #E5F0E9;
   font-color: #1a1d1a;
   font-family: "garamond", serif;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 ul.nav {	list-style-type: none;
   background-color: #a190b6;
   position: relative; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-  padding-left: 0;
-  padding-right: 0;
+  padding-left: 0px;
+  padding-right: 0px;
   left: 3px;
   width: 100%;
 }
@@ -20,7 +22,7 @@ li.nav a {
   font-size: 1.5em;
     color: #2e3532;
     text-align: center;
-    padding: 39px; /* add spacing between items */
+    padding: 47px; /* add spacing between items */
     text-decoration: none;
   }
   li.nav a:hover {
