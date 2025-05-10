@@ -39,3 +39,7 @@ li.nav a {
     background-color: #a190b6;
     height: 10px;
   }
+  iframe {
+    width: 1000px;
+    height: 800px;
+  }
